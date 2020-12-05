@@ -1,4 +1,4 @@
 # trivia-python
 
-##s To Run
+## To Run
 ./ernie-bowl
