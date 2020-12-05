@@ -1,0 +1,195 @@
+CATEGORY: TENNIS
+
+QE: Who defeated tennis player Bobby Riggs in the famous "Battle of the Sexes"?
+IMG: ins.jpeg
+A: BILLIE JEAN KING
+A: CHRIS EVERT-LLOYD
+A: MARGARET COURT
+A: MARTINA NAVRATILOVA
+
+QE: Who did John McEnroe defeat in the final to win his first Wimbledon singles title?
+A: BJORN BORG
+A: CHRIS LEWIS
+A: JIMMY CONNORS
+A: KEVIN CURREN
+
+QE: Who did John McEnroe defeat in the final to win his first Wimbledon singles title?
+A: BJORN BORG
+A: CHRIS LEWIS
+A: JIMMY CONNORS
+A: KEVIN CURREN
+
+QE: Who defeated tennis player Bobby Riggs in the famous "Battle of the Sexes"?
+IMG: ins.jpeg
+A: BILLIE JEAN KING
+A: CHRIS EVERT-LLOYD
+A: MARGARET COURT
+A: MARTINA NAVRATILOVA
+
+QE: Who did John McEnroe defeat in the final to win his first Wimbledon singles title?
+A: BJORN BORG
+A: CHRIS LEWIS
+A: JIMMY CONNORS
+A: KEVIN CURREN
+
+QE: Who did John McEnroe defeat in the final to win his first Wimbledon singles title?
+A: BJORN BORG
+A: CHRIS LEWIS
+A: JIMMY CONNORS
+A: KEVIN CURREN
+
+QM: What year was tennis originally introduced as an Olympic sport?
+IMG: ins.jpeg
+A: AD COURT
+A: OD COURT
+A: DEUCE COURT
+A: BASE COURT
+
+QM: For a tennis player, winning the "Grand Slam" involves winning what four tournaments in the same calendar year?
+A: Australian Open, French Open, U.S. Open, and Wimbledon.
+A: Australian Open, CHINA OPEN, U.S. Open, and Wimbledon.
+A: Australian Open, French Open, ITALIAN OPEN, and Wimbledon.
+A: Australian Open, French Open, U.S. Open, and JAPANESE OPEN.
+
+QM: What year was tennis originally introduced as an Olympic sport?
+IMG: ins.jpeg
+A: AD COURT
+A: OD COURT
+A: DEUCE COURT
+A: BASE COURT
+
+QM: For a tennis player, winning the "Grand Slam" involves winning what four tournaments in the same calendar year?
+A: Australian Open, French Open, U.S. Open, and Wimbledon.
+A: Australian Open, CHINA OPEN, U.S. Open, and Wimbledon.
+A: Australian Open, French Open, ITALIAN OPEN, and Wimbledon.
+A: Australian Open, French Open, U.S. Open, and JAPANESE OPEN.
+
+QM: What year was tennis originally introduced as an Olympic sport?
+IMG: ins.jpeg
+A: AD COURT
+A: OD COURT
+A: DEUCE COURT
+A: BASE COURT
+
+QM: For a tennis player, winning the "Grand Slam" involves winning what four tournaments in the same calendar year?
+A: Australian Open, French Open, U.S. Open, and Wimbledon.
+A: Australian Open, CHINA OPEN, U.S. Open, and Wimbledon.
+A: Australian Open, French Open, ITALIAN OPEN, and Wimbledon.
+A: Australian Open, French Open, U.S. Open, and JAPANESE OPEN.
+
+QH: Who was the first unseeded player to win Wimbledon?
+IMG: ins.jpeg
+A: BORIS BECKER
+A: MICHAEL CHANG
+A: RICHARD KRAJICEK
+
+QH: Who was the first unseeded player to win Wimbledon?
+A: BORIS BECKER
+A: MICHAEL CHANG
+A: RICHARD KRAJICEK
+
+QH: Who was the first unseeded player to win Wimbledon?
+IMG: ins.jpeg
+A: BORIS BECKER
+A: MICHAEL CHANG
+A: RICHARD KRAJICEK
+
+QH: Who was the first unseeded player to win Wimbledon?
+A: BORIS BECKER
+A: MICHAEL CHANG
+A: RICHARD KRAJICEK
+
+QH: Who was the first unseeded player to win Wimbledon?
+IMG: ins.jpeg
+A: BORIS BECKER
+A: MICHAEL CHANG
+A: RICHARD KRAJICEK
+
+QH: Who was the first unseeded player to win Wimbledon?
+A: BORIS BECKER
+A: MICHAEL CHANG
+A: RICHARD KRAJICEK
+
+CATEGORY: TENNIS - 2
+
+QE: Who defeated tennis player Bobby Riggs in the famous "Battle of the Sexes"?
+A: BILLIE JEAN KING
+A: CHRIS EVERT-LLOYD
+A: MARGARET COURT
+A: MARTINA NAVRATILOVA
+
+QE: Who did John McEnroe defeat in the final to win his first Wimbledon singles title?
+A: BJORN BORG
+A: CHRIS LEWIS
+A: JIMMY CONNORS
+A: KEVIN CURREN
+
+QM: What year was tennis originally introduced as an Olympic sport?
+A: AD COURT
+A: OD COURT
+A: DEUCE COURT
+A: BASE COURT
+
+QM: For a tennis player, winning the "Grand Slam" involves winning what four tournaments in the same calendar year?
+A: Australian Open, French Open, U.S. Open, and Wimbledon.
+A: Australian Open, CHINA OPEN, U.S. Open, and Wimbledon.
+A: Australian Open, French Open, ITALIAN OPEN, and Wimbledon.
+A: Australian Open, French Open, U.S. Open, and JAPANESE OPEN.
+
+QH: Who was the first unseeded player to win Wimbledon?
+A: BORIS BECKER
+A: MICHAEL CHANG
+A: RICHARD KRAJICEK
+
+QH: Who was the first unseeded player to win Wimbledon?
+A: BORIS BECKER
+A: MICHAEL CHANG
+A: RICHARD KRAJICEK
+
+CATEGORY: TENNIS - 3
+
+QE: Who defeated tennis player Bobby Riggs in the famous "Battle of the Sexes"?
+A: BILLIE JEAN KING
+A: CHRIS EVERT-LLOYD
+A: MARGARET COURT
+A: MARTINA NAVRATILOVA
+
+QE: Who did John McEnroe defeat in the final to win his first Wimbledon singles title?
+A: BJORN BORG
+A: CHRIS LEWIS
+A: JIMMY CONNORS
+A: KEVIN CURREN
+
+QE: Who defeated tennis player Bobby Riggs in the famous "Battle of the Sexes"?
+A: BILLIE JEAN KING
+A: CHRIS EVERT-LLOYD
+A: MARGARET COURT
+A: MARTINA NAVRATILOVA
+
+QE: Who did John McEnroe defeat in the final to win his first Wimbledon singles title?
+A: BJORN BORG
+A: CHRIS LEWIS
+A: JIMMY CONNORS
+A: KEVIN CURREN
+
+QM: What year was tennis originally introduced as an Olympic sport?
+A: AD COURT
+A: OD COURT
+A: DEUCE COURT
+A: BASE COURT
+
+QM: For a tennis player, winning the "Grand Slam" involves winning what four tournaments in the same calendar year?
+A: Australian Open, French Open, U.S. Open, and Wimbledon.
+A: Australian Open, CHINA OPEN, U.S. Open, and Wimbledon.
+A: Australian Open, French Open, ITALIAN OPEN, and Wimbledon.
+A: Australian Open, French Open, U.S. Open, and JAPANESE OPEN.
+
+QH: Who was the first unseeded player to win Wimbledon?
+A: BORIS BECKER
+A: MICHAEL CHANG
+A: RICHARD KRAJICEK
+
+QH: Who was the first unseeded player to win Wimbledon?
+A: BORIS BECKER
+A: MICHAEL CHANG
+A: RICHARD KRAJICEK
